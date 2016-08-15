@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the THEMETITLE theme.
+
+ubuntunet.settings:
+  type: theme_settings
+  label: 'ubuntunet settings'
